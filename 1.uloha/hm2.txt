@@ -1,0 +1,17 @@
+6:0 = #cycle
+8:7 = #cycle
+4:7 = #invalid
+9:3 = #invalid
+2:4 = #invalid
+1:9 = #invalid
+8:9 = #invalid
+4:1 = #invalid
+5:7 = #invalid
+1:5 = #invalid
+5:9 = 6
+7:8 = 6
+0:8 = 6
+1:6 = 6
+9:7 = #cycle
+3:5 = #cycle
+3:9 = #cycle
